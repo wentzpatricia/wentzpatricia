@@ -4,7 +4,7 @@ Thank You for taking the time to view my GitHub Profile 😊
 <br><br>
 💻 I’m currently studying Analysis and systems development.
 <br>
-👩‍💻 I’m currently learning HTLM5, CSS and Python.
+👩‍💻 I’m currently learning HTLM5, CSS, JavaScript and Python.
 <br>
 
 
