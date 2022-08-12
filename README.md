@@ -11,16 +11,17 @@ Thank You for taking the time to view my GitHub Profile 😊
 
 <div style="display: inline_block"><br>
   <h3>Technologies i'm learning:</h3>
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=red" alt="Angular" />
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git" alt="Git" /> 
+</div>
+<div>  
+  <span>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wentzpatricia&show_icons=true&theme=dark" alt="Patrícia Wentz GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wentzpatricia&layout=compact&theme=dark" alt="Top Langs" />
+  </span>
 </div>
 <br>
  <div>
