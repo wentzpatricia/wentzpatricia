@@ -6,9 +6,6 @@ Thank You for taking the time to view my GitHub Profile 😊
 <br>
 👩‍💻 I’m currently learning HTLM5, CSS, JavaScript and Python.
 <br><br>
-
-
-
 <div style="display: inline_block"><br>
   <h3>Technologies i'm learning:</h3>
   <img src="https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=sass" alt="Sass" />
@@ -21,10 +18,12 @@ Thank You for taking the time to view my GitHub Profile 😊
   <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git" alt="Git" /> 
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub" /> 
 </div>
+<br><br>
 <div>  
   <span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wentzpatricia&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wentzpatricia&show_icons=true&theme=dracula" alt="Patricia Wentz GitHub stats" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wentzpatricia&layout=compact&theme=dracula" alt="Top Langs" />
+    
   </span>
 </div>
 <br>
