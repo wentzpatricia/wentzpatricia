@@ -4,7 +4,7 @@ Thank You for taking the time to view my GitHub Profile 😊
 <br><br>
 💻 I’m currently studying Analysis and systems development.
 <br>
-👩‍💻 I'm currently participating in the Front-end Development internship program at <a href="https://ilegra.com/">ilegra</a>&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30".
+👩‍💻 I'm currently participating in the Front-end Development internship program at <a href="https://ilegra.com/">ilegra</a>&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 <div style="display: inline_block"><br>
   <h3>Technologies i'm learning:</h3>
