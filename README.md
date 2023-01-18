@@ -20,15 +20,4 @@ Thank You for taking the time to view my GitHub Profile 😊
   <img src="https://img.shields.io/badge/-python-05122A?style=for-the-badge&logo=python" alt="Python" /> 
 </div>
 <br><br>
-<div>  
-  <span>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wentzpatricia&show_icons=true&theme=dracula" alt="Patricia Wentz GitHub stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wentzpatricia&layout=compact&theme=dracula" alt="Top Langs" />
-    
-  </span>
-</div>
-<br>
- <div>
-  <h3>My social medias:</h3>
-  <a href="https://www.linkedin.com/in/patriciawentzdemoraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
