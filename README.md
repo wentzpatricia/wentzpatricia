@@ -30,6 +30,8 @@ Thank You for taking the time to view my GitHub Profile 😊
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wentzpatricia&layout=compact&theme=dracula" alt="Top Langs" />
   </span>
 </div>
+<br><br>
 
 ![](https://media3.giphy.com/media/YOwCZmU9YDe3oYkgHq/giphy.gif?cid=790b7611b6429536de7f02a50d64f7ab9c9ba878d5362839&rid=giphy.gif&ct=g)
+
 
