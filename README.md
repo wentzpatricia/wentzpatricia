@@ -6,6 +6,8 @@ Thank You for taking the time to view my GitHub Profile 😊
 <br>
 👩‍💻 I'm currently participating in the Front-end Development internship program at <a href="https://ilegra.com/">ilegra</a>&nbsp;.
 
+![](https://media3.giphy.com/media/YOwCZmU9YDe3oYkgHq/giphy.gif?cid=790b7611b6429536de7f02a50d64f7ab9c9ba878d5362839&rid=giphy.gif&ct=g)
+
 <div style="display: inline_block"><br>
   <h3>Technologies i'm learning:</h3>
   <img src="https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=sass" alt="Sass" />
@@ -21,4 +23,11 @@ Thank You for taking the time to view my GitHub Profile 😊
   <img src="https://img.shields.io/badge/-python-05122A?style=for-the-badge&logo=python" alt="Python" /> 
 </div>
 <br><br>
+
+<div>  
+  <span>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wentzpatricia&show_icons=true&theme=dracula" alt="Patrícia GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wentzpatricia&layout=compact&theme=dracula" alt="Top Langs" />
+  </span>
+</div>
 
