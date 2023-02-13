@@ -31,5 +31,5 @@ Thank You for taking the time to view my GitHub Profile 😊
   </span>
 </div>
 
-<div>![](https://media3.giphy.com/media/YOwCZmU9YDe3oYkgHq/giphy.gif?cid=790b7611b6429536de7f02a50d64f7ab9c9ba878d5362839&rid=giphy.gif&ct=g)</div>
+![](https://media3.giphy.com/media/YOwCZmU9YDe3oYkgHq/giphy.gif?cid=790b7611b6429536de7f02a50d64f7ab9c9ba878d5362839&rid=giphy.gif&ct=g)
 
