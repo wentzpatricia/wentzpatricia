@@ -17,6 +17,7 @@ Thank You for taking the time to view my GitHub Profile 😊
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular&logoColor=red" alt="Angular" />
   <img src="https://img.shields.io/badge/-ReactJS-05122A?style=for-the-badge&logo=react" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/-NestJS-05122A?style=for-the-badge&logo=nestjs" alt="NestJS" />
   <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git" alt="Git" /> 
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub" />
 </div>
